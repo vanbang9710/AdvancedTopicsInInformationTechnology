@@ -1,0 +1,40 @@
+{
+	// {
+	// 	"path": "../SMSAntispam"
+	// },
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PDFToLaTeX"
+		},
+		{
+			"path": "../MAPIE"
+		},
+		{
+			"path": "../../ObsidianVaults/ObsidianVault/02_Areas/Config"
+		},
+		{
+			"name": "kaggle",
+			"path": "../../GitApps/kaggle"
+		},
+		{
+			"path": "../Machine-Learning-Specialization-Coursera"
+		},
+	],
+	// {
+	// 	"path": "../../Coursera/Machine-Learning-Specialization"
+	// },
+	// {
+	// 	"path": "../machinelearningcoban"
+	// },
+	"settings": {
+		"powershell.cwd": "e:\\Code\\machine-learning-introduction",
+		"terminal.integrated.cwd": "E:/Code/AdvancedTopics",
+		"git.ignoredRepositories": [
+			"E:\\ObsidianVaults"
+		],
+		
+	},
+}
